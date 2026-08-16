@@ -1,6 +1,6 @@
 # dsh-app-template
 
-Official starter template for [DSH Webpage Apps](https://github.com/Wha1eChai/dsh-webpage). Package `@acme/hello-app`. App ID `acme.hello`, `surface: 'panel'`.
+Official starter template for [DSH Webpage Apps](https://github.com/dshapps/dsh-webpage). Package `@acme/hello-app`. App ID `acme.hello`, `surface: 'panel'`.
 
 **This is a template.** Use it as a GitHub template, or clone it and run the rename script. The `@acme` scope and `acme.hello` ID are placeholders — change them before you publish.
 
@@ -62,4 +62,4 @@ The tarball inserts **only** this plugin row. Install `@dshapps/webpage` into th
 
 ## Contract
 
-The authoring guide in [dsh-webpage](https://github.com/Wha1eChai/dsh-webpage/blob/main/docs/guides/app-authoring.md) is the operational contract. Conformance checks live in [`@dshapps/app-check`](https://github.com/Wha1eChai/dsh-app-check). When the guide and this README disagree, the guide wins.
+The authoring guide in [dsh-webpage](https://github.com/dshapps/dsh-webpage/blob/main/docs/guides/app-authoring.md) is the operational contract. Conformance checks live in [`@dshapps/app-check`](https://github.com/dshapps/dsh-app-check). When the guide and this README disagree, the guide wins.
