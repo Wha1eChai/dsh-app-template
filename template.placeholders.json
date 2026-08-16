@@ -1,0 +1,13 @@
+{
+  "packageName": "@acme/hello-app",
+  "appId": "acme.hello",
+  "childSlot": "acme.hello.actions",
+  "localeNamespace": "hello",
+  "routePrefix": "/api/acme-hello",
+  "patchId": "hello-app",
+  "invariantPrefix": "acme-hello-app",
+  "compositionEffect": "acme-hello-app: composition",
+  "cssModulePlugin": "acme-hello-app-css-modules",
+  "cssVirtualPrefix": "acme-hello-app-css:",
+  "logPrefix": "acme-hello"
+}
