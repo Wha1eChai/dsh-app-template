@@ -9,6 +9,7 @@ export default {
   packedAllowlist: [
     'package/package.json',
     'package/README.md',
+    'package/README.zh.md',
     'package/LICENSE',
     'package/cordis.patch.yml',
     'package/lib/index.js',
